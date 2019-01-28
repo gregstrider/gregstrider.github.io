@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="/css/estilolista.css">
+	<link rel="shortcut icon" type="image/png" href="css/favicondoc.png"/>
+    <title>Samples - Dota 2</title>
+    <style type="text/css">
+        /* width */
+        ::-webkit-scrollbar {
+        width: 10px;
+                            }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+        background: #f1f1f1; 
+                                  }
+ 
+		/* Handle */
+		::-webkit-scrollbar-thumb {
+		background: #888; 
+		}
+
+		/* Handle on hover */
+		::-webkit-scrollbar-thumb:hover {
+		background: #555; 
+										}
+        textarea {
+        background-color: #28272D;
+		font-size: 1em;
+		border: 1px solid black; }
+								 
+</style>
+  </head>
+  <body color="#ffffff" style="      font-family: &quot;Source Sans Pro&quot;,sans-serif; background-color: #28272D;">
+    <div id="intro" align="center">
+      <p><font color="white" size="20px"><strong>Dota sample texts</strong></font><br><a href="http://store.steampowered.com/app/570" target="_blank" rel="noopener"><img src="img/portfolio/dota2.jpg" /></a><br>
+        <font color="white">Dota 2 is a free-to-play multiplayer online battle arena (MOBA) video game developed and published by <b>Valve Corporation</b>.<br>I translate its in-game content, webpages, release notes and some blog posts since 2015.</p>
+        </font>
+    </div>
+    <div id="samples" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="white"><strong>English:</strong></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font
+
+        color="white"><strong>Brazilian Portuguese:</strong></font> <br>
+      <textarea rows="57" cols="50" readonly="readonly" style="resize:none";>
+Enhance your daily Dota experience with Dota Plus, a new monthly subscription service designed to help you get the most out of every match you play.
+
+============================================
+There are many milestones to celebrate along the course of your Dota journey, and with the new features introduced by Dota +, you can finally recognize the true extent of your accomplishments.
+ </textarea>  
+	  <textarea rows="57" cols="50" readonly="readonly" style="resize:none">Aprimore a sua experiência diária no jogo com o Dota +, um novo serviço de assinatura mensal projetado para ajudar a aproveitar ao máximo cada partida jogada.
+============================================
+A sua jornada no Dota é marcada por diversos momentos que devem ser celebrados, e os novos recursos do Dota + permitem que todo o seu talento seja reconhecido.
+</textarea>    
+	</div>
+    
+  </body>
+</html>

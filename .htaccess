@@ -1,4 +1,2 @@
-RewriteEngine On
-RewriteBase /
-RewriteCond %{REQUEST_URI} !^/maintenance\.html$
-RewriteRule ^(.*)$ /maintenance.html [R=307,L]
+RewriteEngine on
+ErrorDocument 404 http://www.gregstrider.com/404.php

@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="/css/estilolista.css">
+	<link rel="shortcut icon" type="image/png" href="css/favicondoc.png"/>
+    <title>Samples - Steam</title>
+    <style type="text/css">
+        /* width */
+        ::-webkit-scrollbar {
+        width: 10px;
+                            }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+        background: #f1f1f1; 
+                                  }
+ 
+		/* Handle */
+		::-webkit-scrollbar-thumb {
+		background: #888; 
+		}
+
+		/* Handle on hover */
+		::-webkit-scrollbar-thumb:hover {
+		background: #555; 
+										}
+        textarea {
+        background-color: #28272D;
+		font-size: 1em;
+		border: 1px solid black; }
+								 
+</style>
+  </head>
+  <body color="#ffffff" style="      font-family: &quot;Source Sans Pro&quot;,sans-serif; background-color: #28272D;">
+    <div id="intro" align="center">
+      <p><font color="white" size="20px"><strong>Steam sample texts</strong></font><br><a href="https://store.steampowered.com/" target="_blank" rel="noopener"><img src="img/portfolio/steam.png" /></a><br>
+        <font color="white">Steam is the global leader in online game distribution, selling over 20K games, softwares and video content from hundreds of different publishers and developers.<br>Working along a dedicated team of volunteers, I'm responsible for localizing and proofreading the majority of Steam products to Brazilian Portuguese, including the Steam Client, Steam webpages, Steam help website and support articles, Steam Big Picture and Steamworks.</p>
+        </font>
+    </div>
+    <div id="samples" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="white"><strong>English:</strong></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font
+
+        color="white"><strong>Brazilian Portuguese:</strong></font> <br>
+      <textarea rows="57" cols="50" readonly="readonly" style="resize:none";>
+The live broadcast will appear on the store page above the trailer and the screenshot section. The broadcast video is smaller than the width of the store page. It is centered with customizeable artwork space on the left and right of the video. To customize, drag & drop images at the top of this page and choose 'broadcast panel' and the right/left direction from the drop-down.
+============================================
+Controls whether the broadcast chat is displayed on this product page beside the live broadcast. If the chat is visible by default, it may encourage your audience to engage with your broadcaster. You may also decide hide it and then let the viewer decide whether to open it. Or you can remove chat all together from the product page; note that the chat will always be accessible from the live broadcast on the community page.
+
+============================================
+Use this form to request Steam keys for your any of your valid packages. You will need to select the type of keys you are requesting and follow the steps. All Steam key requests are reviewed by Valve on a case-by-case basis, typically within 48-72 hours. Please refer to the Steam key documentation for more information guidelines around Steam key use.
+
+
+============================================
+Valve reserves the right to deny keys or revoke key requesting privileges for partners that are abusing them or disadvantaging Steam customers.
+
+============================================
+Steam conducts a monthly survey to collect data about what kinds of computer hardware and software our customers are using. Participation in the survey is optional, and anonymous. The information gathered is incredibly helpful to us as we make decisions about what kinds of technology investments to make and products to offer.
+
+============================================
+Request these keys to send to your beta testers. Keep in mind that once your testers redeem these keys, it will allow them to immediately play your game even before it has been released.
+
+Remember that these keys will not be automatically banned when you release your game. If you don’t want your beta testers to get your game for free, you will need to ban your beta keys before you launch your game.</textarea>  
+	  <textarea rows="57" cols="50" readonly="readonly" style="resize:none">A transmissão ao vivo será exibida na página da loja, centralizada acima da seção de trailers e capturas de tela. O espaço da transmissão é menor do que a largura da página, permitindo a personalização dos espaços à direita e à esquerda. Para personalizar, arraste e solte imagens no topo da página, escolha a opção "Painel de transmissão" e selecione em que posição a imagem deve ficar (direita/esquerda).
+============================================
+Controla a visibilidade da conversa da transmissão na página do produto. Uma conversa visível por padrão encoraja a audiência a interagir com o responsável pela transmissão. Também é possível ocultar a conversa e permitir que o espectador escolha entre abri-la ou não. Por fim, é possível remover completamente a conversa da página do produto; observe que a conversa sempre poderá ser acessada através da transmissão ao vivo na página da comunidade.
+============================================
+Use este formulário para solicitar códigos do Steam para qualquer um dos seus pacotes válidos. Será necessário selecionar o tipo de código a ser solicitado e seguir os passos. Todas as solicitações de códigos do Steam são analisadas individualmente pela Valve, geralmente dentro de 48–72 horas. Por favor, consulte a documentação do Steam sobre códigos de produto para mais informações e diretrizes sobre o uso de códigos.
+============================================
+A Valve reserva o direito de negar solicitações ou bloquear a solicitação de códigos para parceiros que estejam abusando do recurso ou oferecendo condições injustas aos usuários do Steam.
+============================================
+O Steam realiza uma pesquisa mensal para coletar informações sobre quais tipos de hardware e software nossos usuários estão usando. A participação é opcional e confidencial. As informações coletadas na pesquisa são de grande ajuda, pois nos auxiliam a tomar decisões em relação às melhorias tecnológicas que devemos fazer e quais produtos devemos disponibilizar.
+============================================
+Solicite esses códigos para os testadores beta. Lembre-se de que os testadores poderão jogar o jogo imediatamente após a ativação do código, mesmo antes do lançamento.
+
+Não se esqueça, esses códigos não serão desativados automaticamente após o lançamento do jogo. Caso não queira dar o jogo gratuitamente para os testadores beta, será necessário banir os códigos do teste beta antes de lançar o jogo.
+</textarea>    
+	</div>
+    
+  </body>
+</html>

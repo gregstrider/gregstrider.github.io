@@ -1,0 +1,87 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="/css/estilolista.css">
+	<link rel="shortcut icon" type="image/png" href="css/favicondoc.png"/>
+    <title>Samples - Descenders</title>
+    <style type="text/css">
+        /* width */
+        ::-webkit-scrollbar {
+        width: 10px;
+                            }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+        background: #f1f1f1; 
+                                  }
+ 
+		/* Handle */
+		::-webkit-scrollbar-thumb {
+		background: #888; 
+		}
+
+		/* Handle on hover */
+		::-webkit-scrollbar-thumb:hover {
+		background: #555; 
+										}
+        textarea {
+        background-color: #28272D;
+		font-size: 1em;
+		border: 1px solid black; }
+								 
+</style>
+  </head>
+  <body color="#ffffff" style="      font-family: &quot;Source Sans Pro&quot;,sans-serif; background-color: #28272D;">
+    <div id="intro" align="center">
+      <p><font color="white" size="20px"><strong>Descenders sample texts</strong></font><br><a href="http://store.steampowered.com/app/681280/" target="_blank" rel="noopener"><img src="http://cdn.edgecast.steamstatic.com/steam/apps/681280/header.jpg"></a><br>
+        <font color="white">Developed by Ragesquid and published by No More
+          Robots, <b>Descenders</b> is a fast-paced extreme downhill biking
+          game that's easy to pick up, but difficult to master.<br>
+          I translate it since its launch, in February 2018. Early access title
+          being constantly updated.</p>
+        </font>
+    </div>
+    <div id="samples" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="white"><strong>English:</strong></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font
+
+        color="white"><strong>Brazilian Portuguese:</strong></font> <br>
+      <textarea rows="40" cols="50" readonly="readonly" style="resize:none";>You seem to know your way around high speed situations!
+We are Team Kinetic. Speed is what we believe in, and that's why we believe in you. Why don't you come hit the dirt with us? Together we can achieve some truly blazing speeds and leave all the other teams in the dust. 
+
+Be the best. Be the fastest. Join Kinetic.
+============================================
+While other teams keep their eyes on the path, we at Arboreal carve our own. We have seen you thrive outside track boundaries - you embrace freeriding in its truest sense. This is why we would like you to join the Arboreal family! Here you can progress with a team that is not just about pushing the boundaries of downhill, but living outside of them.
+I hope to welcome you to Arboreal soon!
+============================================
+Great job on the boss jump! Do you want to quit the session here without taking a Rep penalty?
+============================================
+TUTORIAL:
+Welcome to the Village! Hone your skills by making use of our available practice courses.
+Let's learn the basics first! Try to get to the finish in one piece.
+Let's bomb this hill! Use your attack stance to get more precise steering.
+Nice job! Now this time let's try to get some skids going by carving left and right.
+Let's do some bunny hops! Bunny hops are a great way to string large combos together.
+Time to put everything you've learned into practice! Go score some big points to beat the tutorial.
+Great job! You can go to the main menu to start a session or play around a bit more in the practice area.</textarea>
+      <textarea rows="40" cols="50" readonly="readonly" style="resize:none">Você parece mandar bem em alta velocidade! 
+Nós somos a Equipe Kinetic. Velocidade é o nosso lema, e é por isso que acreditamos em você. Que tal vir correr com a gente? Juntos, chegaremos a velocidades inimagináveis e deixaremos as outras equipes comendo poeira.
+
+
+Seja o melhor. Seja o mais rápido. Seja Kinetic.
+============================================
+Enquanto as outras equipes focam no trajeto, nós da Arboreal fazemos o nosso próprio caminho. Vimos como você gosta de sair da trilha — o freeriding é a sua praia. É por isso que queremos você na família Arboreal! Aqui, você poderá progredir com uma equipe que não quer apenas alcançar o limite das trilhas, mas ultrapassá-lo.
+Espero ver você na Arboreal em breve!
+============================================
+Bom trabalho no salto final! Quer sair da sessão aqui sem perder Rep?
+============================================
+TUTORIAL:
+Bem-vindo à Vila! Aprimore as suas habilidades com os cursos práticos disponíveis.
+Vamos começar com o básico! Tente alcançar a linha de chegada.
+Bora dominar essa colina! Use a posição de ataque para conduzir com mais precisão.
+Bom trabalho! Agora vamos derrapar para a esquerda e para a direita.
+Que tal fazer uns bunny hops? Esses saltos são ótimos para combinar combos.
+Hora de colocar tudo em prática! Faça uma bela pontuação para finalizar o tutorial.
+Excelente! Agora você pode ir ao menu para começar uma sessão ou se divertir mais um pouco na área de treinamento.</textarea>
+    </div>
+    
+  </body>
+</html>

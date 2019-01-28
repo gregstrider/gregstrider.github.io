@@ -1,4 +1,4 @@
-RewriteEngine on
-RewriteCond %{REMOTE_ADDR} !^111\.111\.111\.111
-RewriteCond %{REQUEST_URI} !/503.php$ [NC]
-RewriteRule .* /503.php [R=302,L]
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} !^/maintenance\.html$
+RewriteRule ^(.*)$ /maintenance.html [R=307,L]

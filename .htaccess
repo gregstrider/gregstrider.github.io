@@ -1,2 +1,7 @@
 RewriteEngine on
 ErrorDocument 404 http://www.gregstrider.com/404.php
+
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /.htpasswd  
+require valid-user

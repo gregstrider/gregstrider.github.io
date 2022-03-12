@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Animação 1</title>
+<style>
+body{ background:#FFF}
+</style>
+<script>
+window.onload=function(){
+	
+	
+	var largura=500;
+	var altura=300;
+	var quadro= document.getElementById("meuCanvas");
+	quadro.setAttribute("width",largura);
+	quadro.setAttribute("height", altura);
+	
+	var contexto = quadro.getContext("2d");
+	
+	var desenhando = false;
+	var cor ='black';
+	
+	quadro.onmousedown=function(evt){
+		contexto.moveTo(evt.clientX, evt.clientY);
+		desenhando=true;
+	}
+	quadro.onmouseup=function(){
+		desenhando=false;
+	}
+	
+	function KeyDown(evt) {
+	 switch(evt.keyCode){
+		 case 65:{
+		 cor="blue";
+		 }
+		 break;
+		 case 80:{
+			 cor="black";
+		 }
+		 
+		 break;
+		 case 86:{
+			 cor="red";
+		 }
+		 
+		 break;
+		 case 82:{
+			 cor="pink";
+		 }
+		 
+		 break;
+	         
+	  }
+	}	
+	
+	quadro.onmousemove=function(evt){
+		if(desenhando){
+			contexto.lineTo(evt.clientX, evt.clientY);
+			contexto.strokeStyle=cor;
+			contexto.stroke();
+		}
+	}
+	
+	
+	 window.addEventListener('keydown',KeyDown, true);	
+	
+}
+
+
+
+
+ </script>
+ 
+</head>
+
+<body>
+<canvas id="meuCanvas" style="background:beige">
+seu browser não suporta canvas do HTML5.
+</canvas>
+</body>
+</html>

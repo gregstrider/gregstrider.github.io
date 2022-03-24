@@ -933,7 +933,7 @@ Feel free to attach the files that need to be translated to your first email, al
 
     <div class="copyright py-4 text-center text-white">
       <div class="container">
-        <small>Copyright &copy; Greg Strider 2021</small>
+        <small>Copyright &copy; Greg Strider 2022</small>
       </div>
     </div>
 
@@ -958,7 +958,7 @@ Feel free to attach the files that need to be translated to your first email, al
               <h2 class="text-secondary text-uppercase mb-0">Steam Translation Server</h2>
               <hr class=" mb-5">
               <a href="https://translation.steampowered.com/" target="_blank" rel="noopener"><img class="img-fluid mb-5" src="img/portfolio/sts.jpg" alt=""></a>
-              <p class="mb-5">The <a href="https://translation.steampowered.com/" target="_blank" rel="noopener">Steam Translation Server (STS)</a> is a website that allows community members to take part in the translation of Valve products.<br><br>
+              <p class="mb-5">The <a href="https://translation.steampowered.com/" target="_blank" rel="noopener">Steam Translation Server (STS)</a> is a website that allows voluntary community members to take part in the translation of Valve products.<br><br>
 			  I've started as Community Translator in November 2015 and was soon promoted to Community Moderator in February 2016. Since then, I've been managing a passionate team of volunteers dedicated to localizing Valve products to Brazilian Portuguese. The work includes both translation and revision of others' translations.<br><br>
 			  Up until December 2020, the STS team was responsible for translating Steam, the global leader in online game distribution, and its entire platform (including the Steam client, webpages, support articles, Steam Big Picture and Steamworks), as well as their main game franchises. Nowadays, we translate select Valve games, such as <b>Counter-Strike: Global Offensive</b>, <b>Dota 2</b> and <b>Team Fortress 2</b>).
 </p>
@@ -1680,7 +1680,7 @@ Feel free to attach the files that need to be translated to your first email, al
               <h2 class="text-secondary text-uppercase mb-0">Healing Animal</h2>
               <hr class=" mb-5">
               <a href="https://store.steampowered.com/app/1446750/Healing_Animal/" target="_blank" rel="noopener"><img class="img-fluid mb-5" src="img/portfolio/healing.jpg" alt=""></a>
-              <p class="mb-5">Developed and published by <b><a href="https://store.steampowered.com/search/?developer=TeamAppleMonkey" target="_blank" rel="noopener">TeamAppleMonkey</a></b>.<br>Translated in September 2020 (~7k words)</p>
+              <p class="mb-5">Developed and published by <b><a href="https://store.steampowered.com/search/?developer=TeamAppleMonkey" target="_blank" rel="noopener">TeamAppleMonkey</a></b>.<br>Translated in September 2020 (~7k words).</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -1701,7 +1701,7 @@ Feel free to attach the files that need to be translated to your first email, al
               <h2 class="text-secondary text-uppercase mb-0">Stick Warfare: Blood Strike<h2>
               <hr class=" mb-5">
               <a href="https://play.google.com/store/apps/details?id=me.modernator.stickWarfareBloodStrike" target="_blank" rel="noopener"><img class="img-fluid mb-5" src="img/portfolio/stickwarfare2.jpg" alt=""></a>
-              <p class="mb-5">Developed and published by <b><a href="http://modernator.me" target="_blank" rel="noopener">Team Modernator</a></b>.<br>Translated in January 2021 (~9k words)</p>
+              <p class="mb-5">Developed and published by <b><a href="http://modernator.me" target="_blank" rel="noopener">Team Modernator</a></b>.<br>Translated in January 2021 (~9k words).</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>

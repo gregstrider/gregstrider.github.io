@@ -2166,6 +2166,7 @@ Feel free to attach the files that need to be translated to your first email, al
 <div class="portfolio-modal mfp-hide" id="portfolio-dd2">
   <div class="portfolio-modal-dialog bg-white">
 
+    <!-- Close -->
     <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
       <i class="fa fa-3x fa-times"></i>
     </a>
@@ -2174,45 +2175,57 @@ Feel free to attach the files that need to be translated to your first email, al
       <div class="row">
         <div class="col-lg-8 mx-auto">
 
+          <!-- Title -->
           <h2 class="text-secondary text-uppercase mb-0">
             Darkest Dungeon II
           </h2>
 
           <hr class="mb-5">
 
-          <a href="https://www.darkestdungeon.com/darkest-dungeon-2/" target="_blank" rel="noopener">
-            <img class="img-fluid mb-5" src="img/portfolio/dd2.jpg" alt="">
+          <!-- Image -->
+          <a href="https://www.darkestdungeon.com/darkest-dungeon-2/"
+             target="_blank"
+             rel="noopener">
+            <img class="img-fluid mb-5"
+                 src="img/portfolio/dd2.jpg"
+                 alt="Darkest Dungeon II">
           </a>
 
+          <!-- Description -->
           <p class="mb-5">
             Developed and published by
             <b>
-              <a href="http://www.redhookgames.com" target="_blank" rel="noopener">
+              <a href="http://www.redhookgames.com"
+                 target="_blank"
+                 rel="noopener">
                 Red Hook Studios
               </a>
             </b>.
             <br>
-            Translated it from October 2021 (Early Access) to October 2024.
+            Translated it from October 2021 (Early Access)
+            to October 2024.
           </p>
 
-          <!-- NAVIGATION -->
+          <!-- Navigation -->
           <div class="d-flex justify-content-between mb-4">
 
-            <!-- Previous -->
-            <a class="btn btn-outline-primary"
-               href="#portfolio-previousgame">
+            <!-- Previous game -->
+            <a class="btn btn-outline-primary modal-nav"
+               href="#portfolio-previous">
               ← Previous
             </a>
 
-            <!-- Next -->
-            <a class="btn btn-outline-primary"
-               href="#portfolio-d4">
+            <!-- Next game -->
+            <a class="btn btn-outline-primary modal-nav"
+               href="#portfolio-next">
               Next →
             </a>
 
           </div>
 
-          <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+          <!-- Close button -->
+          <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss"
+             href="#">
             <i class="fa fa-close"></i>
             Close Project
           </a>
@@ -2753,6 +2766,35 @@ Feel free to attach the files that need to be translated to your first email, al
 
     <!-- Custom scripts for this template -->
     <script src="js/freelancer.min.js"></script>
+	
+	<script>
+$(document).ready(function () {
+
+  $(".modal-nav").on("click", function (e) {
+
+    e.preventDefault();
+
+    var targetModal = $(this).attr("href");
+
+    // Fecha o modal atual
+    $.magnificPopup.close();
+
+    // Abre o próximo modal
+    setTimeout(function () {
+
+      $.magnificPopup.open({
+        items: {
+          src: targetModal
+        },
+        type: "inline"
+      });
+
+    }, 150);
+
+  });
+
+});
+</script>
 
   </body>
 
